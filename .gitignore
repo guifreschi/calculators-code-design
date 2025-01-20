@@ -111,3 +111,5 @@ docs/_build/
 *.DS_Store
 *.swp
 *~
+
+interface_raw.py
